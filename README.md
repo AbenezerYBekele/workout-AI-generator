@@ -16,6 +16,15 @@ An intelligent fitness companion built with Expo React Native to help users gene
 - **Expo**: Facilitates development, testing, and deployment
 - **AI Integration**: Implements machine learning models for personalized workout generation
 
+
+## App Screenshots
+
+<img src="https://github.com/user-attachments/assets/1f962527-a3c5-4196-99d0-e9d16cae7420" width="300">
+<img src="https://github.com/user-attachments/assets/1f664ceb-5fbe-4b7c-90b3-0769d813ac1c" width="300">
+<img src="https://github.com/user-attachments/assets/110033c3-36f6-4909-be24-17904ca864b6" width="300">
+<img src="https://github.com/user-attachments/assets/2ca4d235-aa5f-42c0-9788-6a023eb73a0a" width="300">
+
+
 ## Installation
 
 1. Clone the repository:
